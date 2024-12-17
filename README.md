@@ -3,6 +3,11 @@
 Powered by LLama3 running in Ollama with a custom system prompt.
 Built within 4h or less. Didn't track, don't expect much ^^.
 
+## Possible next steps
+- Improve UI/UX
+- Replace Llama model with a more specialized one
+- Connect tmdb database to ai model
+
 ## Technologies used
 
 - Nuxt3 (v4 compat) -> Vue 3
