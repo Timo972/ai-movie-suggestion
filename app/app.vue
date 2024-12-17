@@ -127,7 +127,7 @@ async function submit() {
               <UiDrawerClose>
                 <UiButton
                   variant="outline"
-                  @click="abortSignal?.abort()"
+                  @click="abortSignal.abort()"
                 >
                   Cancel
                 </UiButton>
