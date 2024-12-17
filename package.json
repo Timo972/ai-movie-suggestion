@@ -16,10 +16,22 @@
     "@nuxt/fonts": "^0.10.0",
     "@nuxt/icon": "^1.5.5",
     "@nuxt/image": "^1.8.1",
+    "@nuxtjs/color-mode": "^3.5.2",
     "@nuxtjs/tailwindcss": "^6.12.1",
+    "@vueuse/core": "^12.0.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-vue-next": "^0.468.0",
     "nuxt": "^3.13.0",
+    "ollama": "^0.5.11",
+    "radix-vue": "^1.9.11",
+    "shadcn-nuxt": "^0.11.3",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7",
+    "vaul-vue": "^0.2.0",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "eslint": "^9.12.0",
